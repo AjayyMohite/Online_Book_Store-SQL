@@ -1,4 +1,5 @@
 📚 **Online_Book_Store-SQL**
+
 📌 **Project Overview**
 **Online_Book_Store**-SQL is a database project designed to manage the core functionalities of an online bookstore. It includes the SQL scripts necessary to create, populate, and query a relational database for storing and retrieving book-related information such as inventory, customers, orders, and payments.
 
